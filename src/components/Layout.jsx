@@ -8,7 +8,7 @@ const Layout = ({ children }) => {
   return (
     <>
       <Head>
-        <link rel="shortcut icon" href="/images/favicon.icon"/>
+        <link rel="shortcut icon" href="/images/favicon.ico"/>
         <title>Pokedex</title>
       </Head>
       <Navbar />
